@@ -23,6 +23,7 @@
 
 ### 📫 How to reach me: abeslom12@gmail.com
 
+
 ### My Tech Stack
 
 #### Programming Languages
@@ -82,6 +83,8 @@
 **abdj123/abdj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+![](https://komarev.com/ghpvc/?username=abdj123&style=flat-square)
 <img align="left"  src=""/>
 
 - 🔭 I’m currently working on ...
