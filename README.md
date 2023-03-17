@@ -30,6 +30,14 @@ Programming Languages
 <img align="left"  src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>  
 <img   src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
 
+Frameworks, Platforms and Libraries
+
+<img align="left"  src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
+
+
+
+
  Version Control Systems
   
 
@@ -43,8 +51,17 @@ Databases
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abeselom&show_icons=true&theme=radical"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeselom&layout=compact"/>
+Operating System
+
+<img align="left"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img align="left"  src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abdj123&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdj123&layout=compact"/>
 
 
 
