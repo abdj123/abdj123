@@ -15,8 +15,8 @@
   3. problem solving using python
   
 ### 🌱 I’m currently learning
-  1. cloud computing
-  2. data science and machin learning
+  1. Full Stack Web Development
+<!--   2. data science and machin learning -->
 
 ### 👯 I’m looking to collaborate on
   1. opensource flutter based projects
